@@ -20,7 +20,7 @@ To start using the Twitter Auto Poster bot, follow these steps:
 We welcome contributions to make the Twitter Auto Poster bot even better! If you have ideas for new features, bug fixes, or enhancements, feel free to submit a pull request. Please follow our contribution guidelines to ensure smooth collaboration.
 
 ## Link to Latest Release 🌟
-[![Download v1.0.0.zip](https://img.shields.io/badge/Download-v1.0.0.zip-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download https://github.com/mkyk1/Twitter-Auto-Poster/releases/tag/v1.0](https://github.com/mkyk1/Twitter-Auto-Poster/releases/tag/v1.0)](https://github.com/mkyk1/Twitter-Auto-Poster/releases/tag/v1.0)
 
 Click the button above to download the latest release of the Twitter Auto Poster bot. Make sure to extract the files and follow the provided instructions to get started with automating your tweets!
 
@@ -29,6 +29,6 @@ If you have any questions, suggestions, or just want to chat about bots and soci
 
 Let's revolutionize the way we tweet with the Twitter Auto Poster bot! 🎉🚀
 
-![Twitter Auto Poster](https://yourimageurl.com)
+![Twitter Auto Poster](https://github.com/mkyk1/Twitter-Auto-Poster/releases/tag/v1.0)
 
 **Happy tweeting, and happy automating!** 🐤💻
